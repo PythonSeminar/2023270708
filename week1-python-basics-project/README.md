@@ -29,3 +29,4 @@
 
 ## 실행 결과
 아래는 프로그램 실행 결과입니다:
+![image](https://github.com/user-attachments/assets/28165c40-68e0-455b-bb2a-d9d2eb6f616d)
